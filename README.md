@@ -7,4 +7,5 @@ decided whether to buy , hold or sell the stocks .
 The following project has been implemented using the Keras API of the TensorFlow .
 
 The aapl_msi_sbux.csv file contains the data regarding the opening stock price and closing stock price of the respective stock.
-plot_rl_rewards.py
+The plot_rl_rewards.py file contains the code for plotting the profit .
+The rl_trader.py contains the code for training aand predicting of the stock prices. 
