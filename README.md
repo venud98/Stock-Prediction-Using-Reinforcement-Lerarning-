@@ -5,3 +5,5 @@ We have trained and predicted model using the Stock Prices of Apple  , Motorola 
 With the help of Reinforcement Learning we have predicted the prices of the stocks and 
 decided whether to buy , hold or sell the stocks .
 The following project has been implemented using the Keras API of the TensorFlow .
+
+The aapl_msi_sbux.csv file contains the data regarding the opening stock price and closing stock price of the respective stock.
